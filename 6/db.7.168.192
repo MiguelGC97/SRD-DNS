@@ -1,0 +1,9 @@
+
+$TTL 604800 ; 1 week
+@ IN SOA miguelgc-linux.miguelgc.edu. root.miguelgc.edu. (
+					1 360000 3600 3600000 360000)
+					IN NS miguelgc-linux.miguelgc.edu.
+20					IN PTR miguelgc-linux.miguelgc.edu.
+20					IN PTR aliasmiguelgc.miguelgc.edu.
+40					IN PTR PC-01.miguelgc.edu.
+60.7.168.192.in-addr.arpa.		IN PTR otro-miguelgc.edu.
